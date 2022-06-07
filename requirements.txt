@@ -1,0 +1,15 @@
+flask
+flask_cors
+signxml
+zeep
+xmlsec
+pdfkit
+pdf417
+imap_tools
+image
+waitress
+sqlalchemy
+pyodbc
+
+# Install manualy wkhtmltopdf from https://wkhtmltopdf.org/
+#
