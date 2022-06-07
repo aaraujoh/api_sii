@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<AUTORIZACION>
+    <CAF version="1.0">
+        <DA>
+            <RE>77534801-1</RE>
+            <RS>RIEGO SEMA SPA</RS>
+            <TD>52</TD>
+            <RNG>
+                <D>1</D>
+                <H>5</H>
+            </RNG>
+            <FA>2022-06-03</FA>
+            <RSAPK>
+                <M>vcx38OLyr0GgpuZnSGvu7F9/2ABCreTHk1DtmkDmyhA4FRrz71/W2lBUqQYq6MHvDX8tu2BU5WA6BuVhDsS87w==</M>
+                <E>Aw==</E>
+            </RSAPK>
+            <IDK>100</IDK>
+        </DA>
+        <FRMA algoritmo="SHA1withRSA">
+            UrPTj6ZdtZB+9ShhOff7hXDwuye70IBQGjt86Pn1tasSpiYHqidWTC5CjqErhWAQ/j9z266Lr1KkRF12paRbOA==
+        </FRMA>
+    </CAF>
+    <RSASK>-----BEGIN RSA PRIVATE KEY-----
+        MIIBOQIBAAJBAL3Md/Di8q9BoKbmZ0hr7uxff9gAQq3kx5NQ7ZpA5soQOBUa8+9f
+        1tpQVKkGKujB7w1/LbtgVOVgOgblYQ7EvO8CAQMCQH6IT/XsocorwG9ERNryn0g/
+        qpAALHPt2mI187wrRIa0VLpbhS/eYrjIMQuahA5MwJ5PhM5PGc4ceJx3n1vb2wsC
+        IQDh8aKyoQLZ3b6Rppx516X0VOEbbT1ztEA1hUaLMgk3GQIhANcL7vmGj2jnZXlx
+        Aer7qNnLJssYrDp79U+W62bS8b1HAiEAlqEXIcCskT5/C8RoUTpuouNAvPN+TSLV
+        eQOEXMwGJLsCIQCPXUn7rwpF75j7oKvx/Rs73MSHZcgm/U41D0eZ4fZ+LwIge9sm
+        asGh03WlyLC7U7V2ItLKF0HfWXE6M2+ZEmLE5Tc=
+        -----END RSA PRIVATE KEY-----
+    </RSASK>
+
+    <RSAPUBK>-----BEGIN PUBLIC KEY-----
+        MFowDQYJKoZIhvcNAQEBBQADSQAwRgJBAL3Md/Di8q9BoKbmZ0hr7uxff9gAQq3k
+        x5NQ7ZpA5soQOBUa8+9f1tpQVKkGKujB7w1/LbtgVOVgOgblYQ7EvO8CAQM=
+        -----END PUBLIC KEY-----
+    </RSAPUBK>
+</AUTORIZACION>

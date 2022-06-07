@@ -1,0 +1,17 @@
+{
+  "1": {
+    "Index": "1",
+    "DocumentType": "SET",
+    "Folio": "1",
+    "Date": "2022-02-09",
+    "Case": "CASO 3018482-6"
+  },
+  "2": {
+    "Index": "2",
+    "DocumentType": "33",
+    "Folio": "96",
+    "Date": "2022-02-09",
+    "ReferenceCode": "3",
+    "Case": "DEVOLUCION DE MERCADERIAS"
+  }
+}
