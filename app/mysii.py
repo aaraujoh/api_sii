@@ -267,7 +267,8 @@ asGh03WlyLC7U7V2ItLKF0HfWXE6M2+ZEmLE5Tc=
     manager = xmlsec.KeysManager()
     manager.add_key(key)
     import base64
-    with open("sample_data.json", "r") as fd:
+    import sys
+    with open(sys.argv[1], "r") as fd:
         data = json.load(fd)
     data["caf"] = base64.b64decode(data["caf"]).decode("utf-8")
     data["config"]["pem"] = base64.b64decode(data["config"]["pem"]).decode("utf-8")
