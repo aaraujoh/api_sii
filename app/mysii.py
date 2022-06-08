@@ -272,5 +272,7 @@ asGh03WlyLC7U7V2ItLKF0HfWXE6M2+ZEmLE5Tc=
         data = json.load(fd)
     data["caf"] = base64.b64decode(data["caf"]).decode("utf-8")
     data["config"]["pem"] = base64.b64decode(data["config"]["pem"]).decode("utf-8")
-    upload_xml(data)
+    result = upload_xml(data)
+    print("--- RESULT From SIII ---")
+    print(result)
     #generate_xml(folder="XMLs/1", pfx_file_path="../../mi_certificado_firma.cl.pfx", pfx_password="2022")
